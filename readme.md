@@ -1,5 +1,8 @@
 # Complete Guide to Node Authentication with Express 4, Passport,MongoDB
 
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 We will be using Passport to authenticate users locally,
 
 ## Instructions
