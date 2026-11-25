@@ -1,7 +1,9 @@
 # Complete Guide to Node Authentication with Express 4, Passport,MongoDB
 
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-We will be using Passport to authenticate users locally, 
+We will be using Passport to authenticate users locally,
 
 ## Instructions
 
@@ -10,8 +12,18 @@ If you would like to download the code and try it for yourself:
 1. Clone the repo: `git clone git@github.com:manjeshpv/passport-local-express4-mongoose-example.git`
 2. Install packages: `npm install`
 3. Change out the database configuration in `config/config.js`
-4. Launch: `npm start` or `node ./bin/www` 
+4. Launch: `npm start` or `node ./bin/www`
 5. Visit in your browser at: `http://localhost:3000`
 
+## Repository reference
 
+| Path                           | Purpose                      |
+| ------------------------------ | ---------------------------- |
+| [`app.js`](app.js)             | Project reference            |
+| [`app/`](app/)                 | Application modules          |
+| [`config/`](config/)           | Application configuration    |
+| [`routes/`](routes/)           | HTTP routes                  |
+| [`package.json`](package.json) | Package metadata and scripts |
 
+The default branch is `master`. Use the tracked manifests and scripts above
+when preparing changes; keep local credentials and generated files out of commits.
